@@ -1,2 +1,4 @@
 # MRS1
-The meteoroligal radio sonde 
+The protype meteoroligal radio sonde 
+
+## DESIGN requrements
